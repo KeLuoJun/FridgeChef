@@ -1,0 +1,8 @@
+{
+  "name": "智能冰箱大厨",
+  "description": "一款智能烹饪助手，通过识别冰箱照片中的食材，为您推荐食谱并指导烹饪。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
